@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning *Elixir* & *DDD*.
 - 📚 I'm currently reading: *Architecture Patterns with Python*, *Mastering Elixir*, *Effective DevOps*.
 - 💬 Ask me about: *Python*, *#nocode*, DevOps, Data Engineering, SW/Infra Architecture,...
+- ✍️ Where I write: [Cristóbal at Medium](https://github.com/cristobalcl)
 - 📫 How to reach me: [Twitter](https://twitter.com/cristobal_dev)
 - ⚡ Resume: [cristobal.dev/cv](https://cristobal.dev/cv)
 
