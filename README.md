@@ -1,8 +1,8 @@
 ### Cristóbal's GitHub profile
 
-- 🔭 I’m currently working on [Datacker](https://github.com/cristobalcl/datacker), and an article about *Clean Architecture with Django*.
-- 🌱 I’m currently learning *Elixir* & *DDD*.
-- 📚 I'm currently reading: *Architecture Patterns with Python*, *Mastering Elixir*, *Effective DevOps*.
+- 🔭 I’m currently working on a *web3 secret project* 🤫
+- 🌱 I’m currently learning web3: Solidity, Vyper, Hardhat, Ethers.js, web3.py,...
+- 📚 I'm currently reading: *Architecture Patterns with Python*.
 - 💬 Ask me about: *Python*, *#nocode*, DevOps, Data Engineering, SW/Infra Architecture,...
 - ✍️ Where I write: [Cristóbal at Medium](https://medium.com/@cristobalcl)
 - 📫 How to reach me: [Cristóbal at Twitter](https://twitter.com/cristobal_dev)
