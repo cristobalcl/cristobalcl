@@ -1,6 +1,6 @@
 ### Cristóbal's GitHub profile
 
-- 🔭 I’m currently working on a [Mukabe Land](https://beta.mukabe.land) 🚀
+- 🔭 I’m currently working on [Mukabe Land](https://beta.mukabe.land) 🚀
 - 🌱 I’m currently learning web3: Solidity, Vyper, Hardhat, Ethers.js, web3.py,...
 - 📚 I'm currently reading: *Architecture Patterns with Python*.
 - 💬 Ask me about: *Python*, *#nocode*, DevOps, Data Engineering, SW/Infra Architecture,...
